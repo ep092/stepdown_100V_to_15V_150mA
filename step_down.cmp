@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by Cvpcb (2014-03-29 BZR 4777)-product   date = Sa 05 Apr 2014 21:55:11 CEST
+
+BeginCmp
+TimeStamp = /52FBFDD0;
+Reference = C1;
+ValeurCmp = Cin;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FBFDE2;
+Reference = C2;
+ValeurCmp = Cinx;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FBFE01;
+Reference = C3;
+ValeurCmp = Cb;
+IdModule  = Capacitors_SMD:c_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FBFE76;
+Reference = C4;
+ValeurCmp = Cbyb;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FBFEA0;
+Reference = C5;
+ValeurCmp = Cff;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FBFEF2;
+Reference = C6;
+ValeurCmp = Cout;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FBFE0E;
+Reference = D1;
+ValeurCmp = DIODESCH;
+IdModule  = Diodes_SMD:Diode-SMA_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /53405F55;
+Reference = gnd1;
+ValeurCmp = CONN_1;
+IdModule  = Connect:SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53405F28;
+Reference = in1;
+ValeurCmp = CONN_1;
+IdModule  = Connect:SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FBFE22;
+Reference = L1;
+ValeurCmp = INDUCTOR_SMALL;
+IdModule  = Inductors_NEOSID:Neosid_Inductor_SM-PIC0512H;
+EndCmp
+
+BeginCmp
+TimeStamp = /53405F6E;
+Reference = out1;
+ValeurCmp = CONN_1;
+IdModule  = Connect:SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FBFDEF;
+Reference = R1;
+ValeurCmp = Ron;
+IdModule  = SMD_Packages:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FBFE5D;
+Reference = R2;
+ValeurCmp = Rilim;
+IdModule  = SMD_Packages:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FBFEC0;
+Reference = R3;
+ValeurCmp = Rfbt;
+IdModule  = SMD_Packages:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FBFED9;
+Reference = R4;
+ValeurCmp = Rfbb;
+IdModule  = SMD_Packages:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FBFF17;
+Reference = R5;
+ValeurCmp = Rseries;
+IdModule  = SMD_Packages:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /533F233B;
+Reference = U1;
+ValeurCmp = L5009;
+IdModule  = SMD_Packages:SSOP8-9;
+EndCmp
+
+EndListe
