@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-03-29 BZR 4777)-product   date = Sa 05 Apr 2014 21:55:11 CEST
+Cmp-Mod V01 Created by Cvpcb (2014-10-31 BZR 5243)-product   date = Di 25 Nov 2014 02:04:47 CET
 
 BeginCmp
 TimeStamp = /52FBFDD0;
@@ -67,7 +67,7 @@ BeginCmp
 TimeStamp = /52FBFE22;
 Reference = L1;
 ValeurCmp = INDUCTOR_SMALL;
-IdModule  = Inductors_NEOSID:Neosid_Inductor_SM-PIC0512H;
+IdModule  = toni:SRR7032_Series;
 EndCmp
 
 BeginCmp
