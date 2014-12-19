@@ -4,7 +4,6 @@
 
 # KiCAD spezifisch:
 *.bak
-*.pdf
 *.kicad_pcb-bak
 
 # Atmel-Kompilat:
